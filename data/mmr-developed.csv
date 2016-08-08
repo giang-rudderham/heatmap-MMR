@@ -1,0 +1,51 @@
+Country,1990,1995,2000,2005,2010,2015
+Albania,71,53,43,30,30,29
+Australia,8,8,9,7,6,6
+Austria,8,6,5,5,4,4
+Belarus,33,33,26,13,5,4
+Belgium,9,10,9,8,8,7
+Bosnia and Herzegovina,28,22,17,14,13,11
+Bulgaria,25,24,21,15,11,11
+Canada,7,9,9,9,8,7
+Croatia,10,12,11,11,10,8
+Cyprus,16,17,15,12,8,7
+Czech Republic,14,10,7,6,5,4
+Denmark,11,11,9,8,7,6
+Estonia,42,43,26,15,8,9
+Finland,6,5,5,4,3,3
+France,15,15,12,10,9,8
+Germany,11,9,8,7,7,6
+Greece,5,4,4,3,3,3
+Hungary,24,20,15,14,15,17
+Iceland,7,6,5,4,4,3
+Ireland,11,10,9,8,7,8
+Israel,11,10,8,7,6,5
+Italy,8,7,5,4,4,4
+Japan,14,11,10,7,6,5
+Latvia,48,54,30,22,19,18
+Lithuania,29,28,16,12,9,10
+Luxembourg,12,13,13,13,11,10
+Malta,13,14,15,13,11,9
+Montenegro,10,12,11,9,8,7
+Netherlands,12,13,14,11,8,7
+New Zealand,18,15,12,14,13,11
+Norway,7,7,7,7,6,5
+Poland,17,13,8,6,4,3
+Portugal,17,15,13,12,11,10
+Republic of Moldova,51,66,49,39,34,23
+Romania,124,77,51,33,30,31
+Russian Federation,63,82,57,42,29,25
+Serbia,14,15,17,15,16,17
+Slovakia,11,9,8,7,6,6
+Slovenia,12,12,12,11,9,9
+Spain,6,6,5,5,5,5
+Sweden,8,6,5,5,4,4
+Switzerland,8,8,7,7,6,5
+The former Yugoslav Republic of Macedonia,14,13,12,10,8,8
+Ukraine,46,52,34,30,26,24
+United Kingdom,10,11,12,12,10,9
+United States,12,12,12,13,14,14
+developed,62.68085106,61.76595745,57.61702128,54.76595745,53.06382979,52.34042553
+developing,469.953125,427.9453125,379.515625,324.421875,277.6640625,242.640625
+,,,,,,
+Note: the last two lines are averages of developing and developed countries,,,,,,
